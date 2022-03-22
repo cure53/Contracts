@@ -1,4 +1,4 @@
-# Contracts
+# Pentest Contracts
 
 A small collection of _potentially_ useful contract templates for code auditors, IT security specialists & penetration-testers - or people wanting to contract with the aforementioned and look for inspiration how to set up necessary paperwork.
 
