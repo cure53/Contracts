@@ -10,14 +10,16 @@ All files are presented as [ODT](https://docs.fileformat.com/word-processing/odt
 
 There are currently three files in this repository:
 
-* A mutual Non Disclosure Agreement template
-* A Master Service Agreement template
-* A Data Protection Addendum template
+* A mutual Non Disclosure Agreement template [NDA-en.odt](https://github.com/cure53/Contracts/blob/main/NDA-en.odt)
+* A Master Service Agreement template [MSA-en.odt](https://github.com/cure53/Contracts/blob/main/MSA-en.odt)
+* A Data Protection Addendum template [DPA-en.odt](https://github.com/cure53/Contracts/blob/main/DPA-en.odt)
 
 ## Disclaimer
 
-We are no lawyers. We give no guarantees about the documents shared here. They are shared with you because they work for us and that is all we know. If you wish to use them for you own purposes, please do so. You may download and customize them as you see it fit. 
+We are no lawyers. We give no guarantees about any of the documents shared here. They are shared with you because they work for us, have been reviewed by counteless lawyers (not us), and that is all we know. If you wish to use them for you own purposes, please do so. You may download and customize them as you see it fit. 
 
-Comments and tickets about how they can be improved are very welcome. Please don't tell us about file format XYZ that is way better, we know that ODT is not optimal for everyone but that is what we work with.
+But please, **read them and understand them** before using or even signing them.
+
+Comments and tickets about how they can be improved are very welcome. Please don't tell us about file format XYZ that is way better, we know that ODT is not optimal for everyone but that is what we work with, and there are no plans to change that.
 
 And, again, we take no responsibility if you use our templates and something backfires for you or the entities you are signing with. We just share what we usually work with and hope that this helps someone out there :)
