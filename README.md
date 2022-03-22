@@ -16,7 +16,7 @@ There are currently three files in this repository:
 
 ## Disclaimer
 
-We are no lawyers. We give no guarantees about any of the documents shared here. They are shared with you because they work for us, have been reviewed by countless lawyers (not us), and that is all we know. 
+We are not lawyers. We give no guarantees about any of the documents shared here. They are shared with you because they work for us, have been reviewed by countless lawyers (not us), and that is all we know. 
 
 If you wish to use them for you own purposes, please do so. You may download and customize them as you see it fit. 
 
